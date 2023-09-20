@@ -1,0 +1,46 @@
+.top-container{
+    background-color: cadetblue;
+}
+h1{
+    font-size: 4 rem;
+    font-weight: bolder;
+    font-family: cursive;
+}
+h2{
+    font-size: 2.5 rem;
+    font-family: sans-serif;
+}
+body {
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+.title{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.bottom-container {
+    background-color: #66bfbf;
+    padding: 50px 0px 20px;
+}
+a {
+    color: darkolivegreen;
+    font-family: "Montserrat", sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+.link{
+    padding: 30px 20px;
+}
+.self{
+    border-radius: 50%;
+}
+.middle-container{
+    padding: 50px 0px 20px;
+}
+.intro{
+    padding: 5px 50px;
+    color: chocolate;
+    font-family:"Montserrat", sans-serif ;
+}
